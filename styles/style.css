@@ -1,8 +1,39 @@
-.primary-btn{
-    background-color: #E55473;
-    border-radius: 5px;
+/* shared styles */
+body {
+    color: #272727;
+    text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    font-family: Lato;
+    font-weight: 800;
 }
-.banner-description{
-    margin-left: 70px;
-    width: 450px;
+
+/* banner styles */
+.primary-btn {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 10px 20px;
+    gap: 10px;
+    color: #FFFFFF;
+    border: 0;
+}
+
+.banner-description {
+    width: 310px;
+    font-size: 10px;
+}
+
+header {
+    background-color: #E554731A;
+    display: flex;
+    height: 400px;
+}
+
+.banner-title {
+    width: 280px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    font-size: 35px;
+}
+
+.banner {
+    padding-left: 120px;
 }
