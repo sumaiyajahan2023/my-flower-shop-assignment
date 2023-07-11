@@ -76,14 +76,17 @@ span{
     text-align: center;
 }
 .social-title{
-
+    color: #272727;
+    font-size: 20px;
 }
 .social-para{
-
+    color: #27272799;
+    font-size: 9px;
 }
 .social-pics{
     display: flex;
     justify-content: center;
+    gap: 12px;
 }
 .images{
     width: 160px;
