@@ -92,3 +92,13 @@ span{
     width: 160px;
     height: 180px;
 }
+
+/* Deal styles */
+.deals{
+    background-image: url('../Image/Rectangle\ 9.png');
+}
+.deal-description{}
+.deal-title{}
+.deal-para{}
+.deal-form{
+}
