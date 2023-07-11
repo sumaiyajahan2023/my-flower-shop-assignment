@@ -50,6 +50,7 @@ header {
     height: 310px;
     padding-left: 200px;
     padding-right: 200px;
+    justify-content: space-between;
 }
 span{
     color: #E55473;
@@ -65,4 +66,26 @@ span{
 .promo-des{
     text-align: center;
     padding-top: 120px;
+}
+
+/* social styles */
+.social{
+    height: 400px;
+}
+.social-description{
+    text-align: center;
+}
+.social-title{
+
+}
+.social-para{
+
+}
+.social-pics{
+    display: flex;
+    justify-content: center;
+}
+.images{
+    width: 160px;
+    height: 180px;
 }
