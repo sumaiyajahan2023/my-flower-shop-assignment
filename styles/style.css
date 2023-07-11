@@ -47,13 +47,22 @@ header {
 .promo {
     display: flex;
     background-color: #E554730D;
+    height: 310px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 span{
     color: #E55473;
 }
 .promo-title{
     color: #272727;
+    font-size: 20px;
 }
 .promo-description{
     color: #27272799;
+    font-size: 9px;
+}
+.promo-des{
+    text-align: center;
+    padding-top: 120px;
 }
