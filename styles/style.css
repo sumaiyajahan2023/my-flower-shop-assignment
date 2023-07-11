@@ -6,7 +6,6 @@ body {
     font-weight: 800;
 }
 
-/* banner styles */
 .primary-btn {
     border-radius: 8px;
     background: #E55473;
@@ -16,9 +15,12 @@ body {
     border: 0;
 }
 
+/* banner styles */
+
 .banner-description {
     width: 310px;
     font-size: 10px;
+    color: #27272799;
 }
 
 header {
@@ -34,8 +36,24 @@ header {
     padding-top: 100px;
     padding-bottom: 0px;
     font-size: 35px;
+    color: #000000;
 }
 
 .banner {
     padding-left: 120px;
+}
+
+/* Promo styles */
+.promo {
+    display: flex;
+    background-color: #E554730D;
+}
+span{
+    color: #E55473;
+}
+.promo-title{
+    color: #272727;
+}
+.promo-description{
+    color: #27272799;
 }
