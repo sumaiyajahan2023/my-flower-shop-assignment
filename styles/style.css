@@ -25,6 +25,8 @@ header {
     background-color: #E554731A;
     display: flex;
     height: 400px;
+    justify-content: space-between;
+    padding-right: 100px;
 }
 
 .banner-title {
