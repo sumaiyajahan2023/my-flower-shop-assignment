@@ -7,12 +7,14 @@ body {
 }
 
 .primary-btn {
-    border-radius: 8px;
+    border-radius: 4px;
     background: #E55473;
-    padding: 10px 20px;
     gap: 10px;
     color: #FFFFFF;
     border: 0;
+    height: 23px;
+    width: 60px;
+    font-size: 9px;
 }
 
 /* banner styles */
@@ -71,6 +73,7 @@ span{
 /* social styles */
 .social{
     height: 400px;
+    margin-bottom: 0px;
 }
 .social-description{
     text-align: center;
@@ -95,10 +98,24 @@ span{
 
 /* Deal styles */
 .deals{
-    background-image: url('../Image/Rectangle\ 9.png');
+    margin-top: 0px;
+    background-image: url('../Image/Rectangle-9.png');
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+    background-size: 680px;
 }
-.deal-description{}
-.deal-title{}
-.deal-para{}
+.deal-description{
+    padding-top: 45px;
+}
+.deal-title{
+    color: #272727;
+    font-size: 16px;
+}
+.deal-para{
+    color: #27272799;
+    font-size: 9px;
+}
 .deal-form{
+    padding-bottom: 45px;
 }
