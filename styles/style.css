@@ -17,6 +17,10 @@ body {
     font-size: 9px;
 }
 
+span{
+    color: #E55473;
+}
+
 /* banner styles */
 
 .banner-description {
@@ -53,10 +57,9 @@ header {
     padding-left: 200px;
     padding-right: 200px;
     justify-content: space-between;
+    margin-top: 30px;
 }
-span{
-    color: #E55473;
-}
+
 .promo-title{
     color: #272727;
     font-size: 20px;
@@ -104,6 +107,7 @@ span{
     text-align: center;
     background-position: center;
     background-size: 680px;
+    margin-bottom: 30px;
 }
 .deal-description{
     padding-top: 45px;
@@ -124,6 +128,8 @@ span{
 footer{
     background-color: #111010;
     text-align: center;
+    padding: 40px;
+    margin-top: 60px;
 }
 .footer-title{
     color: #FFFFFF;
