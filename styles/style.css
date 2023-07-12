@@ -119,3 +119,21 @@ span{
 .deal-form{
     padding-bottom: 45px;
 }
+
+/* footer styles */
+footer{
+    background-color: #111010;
+    text-align: center;
+}
+.footer-title{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.footer-para{
+    color: #FFFFFFE5;
+    font-size: 9px;
+}
+.copyright{
+ color: #FFFFFF66;
+ font-size: 6px;   
+}
